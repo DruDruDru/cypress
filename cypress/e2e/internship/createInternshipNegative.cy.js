@@ -1,4 +1,4 @@
-describe('Create Internship', () => {
+describe('Create Internship Negative', () => {
     it('create', () => {
         cy.setResolution(1920, 1080);
 
