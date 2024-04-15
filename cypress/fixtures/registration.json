@@ -1,0 +1,14 @@
+{
+    "login": "tymon",
+    "email": "tymon@tymon.com",
+    "password": "QWEasd123",
+    "firstname": "Иван",
+    "lastname": "Иванов",
+    
+    "invalidLogin": "рассол554",
+    "invalidEmail": "email",
+    "invalidPassword": "asd12",
+    "invalidPassword2": "asd11",
+    "invalidLastname": "loud",
+    "invalidFirstname": "john"
+}

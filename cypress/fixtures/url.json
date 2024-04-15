@@ -1,4 +1,5 @@
 {
     "main": "https://dev.profteam.su/",
-    "login": "https://dev.profteam.su/login"
+    "login": "https://dev.profteam.su/login",
+    "registration": "https://dev.profteam.su/registration"
 }
