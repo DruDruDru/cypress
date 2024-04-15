@@ -1,0 +1,12 @@
+{
+    "firstname": "Капитолина",
+    "lastname": "Самсонов",
+    "patronymic": "Эмма",
+    "email": "testerStudent@gmail.com",
+    "about": "tester",
+
+    "invalidFirstname": "John",
+    "invalidLastname": "Camree",
+    "invalidPatronymic": "Philiphs",
+    "invalidEmail": "this_email"
+}
