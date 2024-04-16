@@ -47,11 +47,6 @@ describe('Update card', () => {
             .clear()
             .type(data.email)
 
-        cy.log("Изменение о себе")
-        cy.get('.form-area')
-            .clear()
-            .type(data.about)
-
         cy.log("Кнопка сохранить")
         cy.get('.profile-forms > .form.edit-form > .form__buttons > .button')
             .click()
